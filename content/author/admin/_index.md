@@ -42,6 +42,10 @@ user_groups = ["Researchers", "Visitors"]
   institution = "國立臺灣大學"
   year = 2015
 
+[[education.courses]]
+  institution = "臺北市立第一女子高級中學"
+  year = 2010
+
 #[[education.courses]]
 #  course = "BSc in Artificial Intelligence"
 #  institution = "Massachusetts Institute of Technology"
