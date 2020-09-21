@@ -30,7 +30,7 @@ date_format = "Jan 2006"
 
 [[experience]]
   title = "候選人"
-  company = "台北市議會第五選舉區（中正區、萬華區）市議員"
+  company = "台北市議會第五選舉區（中正區、萬華區）市議員選舉"
   company_url = ""
   location = "台北市"
   date_start = "2018-03-29"
