@@ -59,4 +59,26 @@ date_format = "Jan 2006"
   description = """
     經手辦理
   """
+
+[[experience]]
+  title = ""
+  company = "Global shaper"
+  company_url = ""
+  location = "台北市"
+  date_start = "2018-09-01"
+  date_end = "2020-03-10"
+  description = """
+    經手辦理
+  """
+
+[[experience]]
+  title = "實習生"
+  company = "Ｗorld Movement"
+  company_url = ""
+  location = "D.C., U.S.A"
+  date_start = "2018-09-01"
+  date_end = "2020-03-10"
+  description = """
+    經手辦理
+  """
 +++
