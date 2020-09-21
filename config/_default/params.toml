@@ -12,13 +12,13 @@ day_night = true
 font = "default"
 
 # Description for social sharing and search engines. If undefined, superuser role is used in place.
-description = "許菡芸的個人網站，關注臺灣、臺北、市議會"
+description = "蔡維哲律師的個人網站，關注臺灣司法、司法實證研究及經濟學。"
 
 # Default image for social sharing and search engines. Place image in `static/img/` folder and specify image name here.
 sharing_image = ""
 
 # Twitter username (without @). Used when a vistor shares your site on Twitter.
-twitter = "ChristinehyHsu"
+twitter = "adgjlsfhk123"
 
 # Diplay a logo in navigation bar rather than title (optional).
 #   To enable, place an image in `static/img/` and reference its filename below. To disable, set the value to "".
@@ -50,9 +50,9 @@ time_format = "3:04 PM"
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "hyhsu27@gmail.com"
-phone = ""
-address = ""
+email = "adgjlsfhk123@gmail.com"
+phone = "+886-2-3322-5678#310"
+address = "100台北市中正區羅斯福路二段9號11樓"
 
 # Office hours: use `<br>` to insert a line break, or set to "" to remove # office hours
 # office_hours = """Monday 10:00 to 12:00<br>Wednesday 09:00 to 10:00"""
@@ -85,10 +85,10 @@ contact_links = [
 #   1: Google Maps
 #   2: OpenStreetMap (Mapnik)
 #   3: OpenStreetMap (Mapbox)
-map = 0
+map = 2
 map_api_key = ""
-latitude = ""
-longitude = ""
+latitude = "25.029155"
+longitude = "121.521336"
 zoom = 15
 
 ############################
