@@ -33,8 +33,7 @@ user_groups = ["Researchers", "Visitors"]
 
 # List qualifications (such as academic degrees)
 [[education.courses]]
-  course = "政治學及社會學選送交換生
-"
+  course = "政治學及社會學選送交換生"
   institution = "美國威斯康辛大學麥迪遜分校 "
   year = 2015
 
