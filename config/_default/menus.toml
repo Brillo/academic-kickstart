@@ -19,8 +19,8 @@
 #weight = 30
 
 [[main]]
-  name = "出版物"
-  url = "/publication"
+  name = "演講與訪談"
+  url = "/address"
   weight = 40
 
 [[main]]
