@@ -1,5 +1,5 @@
 +++
-title = "Posts"
+title = "部落格"
 
 # View.
 #   1 = List
