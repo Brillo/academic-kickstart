@@ -9,17 +9,17 @@ title = "許菡芸"
 
 # The URL of your site.
 # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
-baseurl = "https://weichetsai.com"
+baseurl = "https://hsuhanyun.com"
 
 # Enter a copyright notice to display in the site footer.
 # To display a copyright symbol, type `&copy;`. For current year, type `{year}`.
-copyright = "Copyright &copy; `{year}` 蔡維哲"
+copyright = "Copyright &copy; `{year}` 許菡芸"
 
 # Enable analytics by entering your Google Analytics tracking ID
 googleAnalytics = "UA-137345179-1"
 
 # Enable comments by entering your Disqus shortname
-disqusShortname = "weichetsai-com"
+disqusShortname = ""
 
 ############################
 ## Advanced options below ##
